@@ -17,3 +17,11 @@ pyinstaller --noconsole \
 
 ## Usage
  To change work out do the motion or say the workout.
+
+# Examples
+
+![Workout](images/WorkoutExample.png)
+*Using computer vision the pi is able to keep track of movements*
+
+![SenseHat](images/CountExample.png)
+*SenseHat used to keep track of reps as well as display additional information*
